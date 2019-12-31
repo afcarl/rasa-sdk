@@ -110,3 +110,4 @@ examples/moodbot/models/
 *~
 
 *.DS_Store
+.history
